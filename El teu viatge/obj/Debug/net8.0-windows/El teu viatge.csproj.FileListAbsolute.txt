@@ -1,0 +1,18 @@
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\bin\Debug\net8.0-windows\El teu viatge.exe
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\bin\Debug\net8.0-windows\El teu viatge.deps.json
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\bin\Debug\net8.0-windows\El teu viatge.runtimeconfig.json
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\bin\Debug\net8.0-windows\El teu viatge.dll
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\bin\Debug\net8.0-windows\El teu viatge.pdb
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El_teu_viatge.DadesPersonals.resources
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El_teu_viatge.Properties.Resources.resources
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El teu viatge.csproj.GenerateResource.cache
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El teu viatge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El teu viatge.AssemblyInfoInputs.cache
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El teu viatge.AssemblyInfo.cs
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El teu viatge.csproj.CoreCompileInputs.cache
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El teu viatge.dll
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\refint\El teu viatge.dll
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El teu viatge.pdb
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El teu viatge.genruntimeconfig.cache
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\ref\El teu viatge.dll
+C:\Users\s\Source\Repos\El teu viatge\El teu viatge\obj\Debug\net8.0-windows\El_teu_viatge.Vols.resources
